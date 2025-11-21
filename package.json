@@ -1,5 +1,5 @@
 {
-  "name": "@couchbasedatabase/couchbase-mcp",
+  "name": "iflow-mcp_mcp-server-couchbase",
   "version": "1.2.4",
   "description": "A Couchbase MCP server for LLMs",
   "repository": {
@@ -22,7 +22,7 @@
     "access": "public"
   },
   "bin": {
-    "couchbase-mcp": "dist/bin/cli.js"
+    "mcp-server-couchbase": "dist/bin/cli.js"
   },
   "files": [
     "dist",
